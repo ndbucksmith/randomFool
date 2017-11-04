@@ -1,4 +1,4 @@
-python solution for problem posed at 
+python solution for fooled by randomness, cancer-cluster problem posed at 
 
 https://twitter.com/nntaleb/status/926038923276627968
 
